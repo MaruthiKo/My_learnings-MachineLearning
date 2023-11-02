@@ -10,6 +10,7 @@ Including all the resources used in my learning Machine Learing Journey. All the
   - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
   - [Self-learners guide to NLP](https://jamescalam.medium.com/the-self-taught-nlp-engineer-curriculum-c425c3fc3ff6?sk=986263c644d9b36699d800713faa478a)
   - [Langchain AI Handbook](https://www.pinecone.io/learn/series/langchain/)
+  - [ActiveLoop Langchain & Vector Databases in Production](https://learn.activeloop.ai/courses)
 
 ## Documentations to read:
   - [Langchain](https://docs.langchain.com/docs/)
