@@ -5,6 +5,7 @@ Including all the resources used in my learning Machine Learing Journey. All the
 ## Deep Learning:
   - [ZTM PyTorch Course](learnpytorch.io)
   - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
+  - [Andrej Kaparthy Zero to Hero in Neural Networks](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=Hpv7ini7Vd-BQhGi)
 
 ## NLP:
   - [NLP Roadmap](https://blog.futuresmart.ai/nlp-roadmap-2023-step-by-step-guide#heading-prerequisite-to-nlp)
