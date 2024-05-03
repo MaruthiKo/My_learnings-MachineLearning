@@ -26,7 +26,9 @@ Including all the resources used in my learning Machine Learing Journey. All the
   - [SAT QA application](https://www.linkedin.com/posts/maruthi-konjeti_nlp-education-satprep-activity-7124819232671899648-OGnh?utm_source=share&utm_medium=member_desktop)
   - [A Complete Guide to Langchain](https://notes.aimodels.fyi/a-complete-guide-to-langchain-building-powerful-applications-with-large-language-models/)
   - [Prompt Engineering Guide](https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/)
+  - [CampusBot](https://github.com/MaruthiKo/campusbot/tree/v1.1)
 
 ## Youtube Videos:
  - [Learn Langchain in 1 hour](https://youtu.be/lG7Uxts9SXs?si=P3goq1MwWUm0jUGB)
  - [A Hacker's guide to LLM](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+ - [100 Days of ML](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
