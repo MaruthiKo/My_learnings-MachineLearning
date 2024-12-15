@@ -16,6 +16,7 @@ Including all the resources used in my learning Machine Learing Journey. All the
   - [Langchain AI Handbook](https://www.pinecone.io/learn/series/langchain/)
   - [ActiveLoop Langchain & Vector Databases in Production](https://learn.activeloop.ai/courses)
   - [Retrieval Augmented Generation for Production with LangChain & LlamaIndex](https://learn.activeloop.ai/courses/rag)
+  - [smol-course](https://github.com/huggingface/smol-course)
 
 ## Documentations to read:
   - [Langchain](https://docs.langchain.com/docs/)
